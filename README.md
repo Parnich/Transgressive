@@ -8,7 +8,7 @@ Transgressive adds a universal tool that allows you to carry no other tools besi
 
 # Content:
 - Transgressive energy that can be obtained by combining diamonds, a Nether Star, and other rare items.
-- Metomorphosis tool
+- Metomorphose tool
 
 ## Mechanics of the Metomorphosis tool operation
 
